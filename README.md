@@ -1,1 +1,1 @@
-Template for Django Applications
+Template for deploy on https://railway.com/
